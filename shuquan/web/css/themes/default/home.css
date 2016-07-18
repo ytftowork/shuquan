@@ -1,0 +1,30 @@
+.searchBtn{
+    color: #ffffff;
+    background-color:#272727;
+}
+
+.sq-home-item{
+    width: 1120px;
+    float: left;
+}
+.sq-home-item-left,.sq-home-item-right{
+    float: left;
+}
+.sq-home-item-left{
+    width:200px;
+    height:278px;
+}
+.sq-home-item-left img{
+    width: 100%;
+    height: 100%;
+}
+.sq-home-item-right{
+    width: 350px;
+    height: 100%;
+    background-color: red;
+}
+.sq-home-item-right h4{
+
+}
+
+
